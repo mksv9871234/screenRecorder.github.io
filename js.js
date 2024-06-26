@@ -62,5 +62,5 @@ function handleStop() {
 }
 
 function handleError(error) {
-    alert.error('Error: ', error);
+    alert('Error: ', error);
 }
